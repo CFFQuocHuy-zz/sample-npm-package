@@ -1,0 +1,28 @@
+{
+  "name": "sample-npm-package",
+  "version": "1.0.0",
+  "description": "A sample for create a new package",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CFFQuocHuy/sample-npm-package.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package"
+  ],
+  "author": "lsqhuy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CFFQuocHuy/sample-npm-package/issues"
+  },
+  "homepage": "https://github.com/CFFQuocHuy/sample-npm-package#readme"
+}
