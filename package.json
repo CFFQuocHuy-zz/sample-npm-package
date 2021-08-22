@@ -1,5 +1,5 @@
 {
-  "name": "sample-npm-package",
+  "name": "sample-npm-package-stdio",
   "version": "1.0.0",
   "description": "A sample for create a new package",
   "main": "index.js",
